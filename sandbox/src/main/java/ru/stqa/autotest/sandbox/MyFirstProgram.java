@@ -1,3 +1,4 @@
+package ru.stqa.autotest.sandbox;
 
 public class MyFirstProgram {
 	public static void main(String[] args) {
