@@ -1,6 +1,8 @@
+ru/stqa/autotest/sandbox/Square.java
+ ru.stqa.autotest.sandbox.Square
 ru/stqa/autotest/sandbox/MyFirstProgram.java
  ru.stqa.autotest.sandbox.MyFirstProgram
 ru/stqa/autotest/sandbox/Rectangle.java
  ru.stqa.autotest.sandbox.Rectangle
-ru/stqa/autotest/sandbox/Square.java
- ru.stqa.autotest.sandbox.Square
+ru/stqa/autotest/sandbox/Equation.java
+ ru.stqa.autotest.sandbox.Equation
