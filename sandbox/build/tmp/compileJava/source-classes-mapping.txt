@@ -6,3 +6,5 @@ ru/stqa/autotest/sandbox/Rectangle.java
  ru.stqa.autotest.sandbox.Rectangle
 ru/stqa/autotest/sandbox/Equation.java
  ru.stqa.autotest.sandbox.Equation
+ru/stqa/autotest/sandbox/Equality.java
+ ru.stqa.autotest.sandbox.Equality
