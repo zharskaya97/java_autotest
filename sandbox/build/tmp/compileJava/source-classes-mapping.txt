@@ -8,3 +8,7 @@ ru/stqa/autotest/sandbox/Equation.java
  ru.stqa.autotest.sandbox.Equation
 ru/stqa/autotest/sandbox/Equality.java
  ru.stqa.autotest.sandbox.Equality
+ru/stqa/autotest/sandbox/Primes.java
+ ru.stqa.autotest.sandbox.Primes
+ru/stqa/autotest/sandbox/Collections.java
+ ru.stqa.autotest.sandbox.Collections
